@@ -1,26 +1,39 @@
 # TCP-UDP-Network-Communication-System
-Python socket programming project implementing TCP and UDP client-server communication, packet loss analysis, and protocol reliability testing.
 
 ## Overview
-Developed TCP and UDP client-server applications using Python sockets to compare reliable and unreliable transport protocols.
+A networking project developed in Python covering transport-layer communication and web server implementation using socket programming.
 
-## Features
+## Components
+
+### TCP/UDP Communication System
 - TCP Client/Server Communication
 - UDP Client/Server Communication
 - Packet Loss Analysis
 - Message Ordering Analysis
-- Acknowledgment Handling
 - Reliability Comparison
 - Network Performance Testing
+
+### HTTP File Sharing Web Server
+- HTTP Request Parsing
+- English and Arabic Web Pages
+- File Download Functionality
+- 200 OK Responses
+- 404 Not Found Handling
+- 400 Bad Request Handling
+- Request Logging and Statistics
 
 ## Technologies
 - Python
 - Socket Programming
 - TCP/IP
 - UDP
+- HTTP
+- HTML
+- CSS
 
 ## Learning Outcomes
-- Understanding transport-layer protocols
-- Reliable vs. unreliable communication
-- Packet transmission and delivery behavior
-- Network protocol analysis
+- Transport Layer Protocols
+- Socket Programming
+- HTTP Communication
+- Client-Server Architecture
+- Network Performance Analysis
